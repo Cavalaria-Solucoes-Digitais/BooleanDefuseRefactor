@@ -1,0 +1,42 @@
+<list>
+  <model.Perguntas>
+    <pergunta>true LOVELACE (false VAUGHAN true)</pergunta>
+    <resposta>true</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>(true LOVELACE false) VAUGHAN (JOBS false)</pergunta>
+    <resposta>true</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>((false LOVELACE true) VAUGHAN false) CURIE  false</pergunta>
+    <resposta>true</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>(false LOVELACE true) TESLA  (false CURIE  false)</pergunta>
+    <resposta>false</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>JOBS (((20/5) EINSTEIN 4) LOVELACE (4 TESLA 4))</pergunta>
+    <resposta>true</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>((false VAUGHAN true) LOVELACE (4 NEWTON 3))</pergunta>
+    <resposta>false</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>JOBS ((20/5+9) NEWTON 4)) LOVELACE (4 TESLA 4)</pergunta>
+    <resposta>false</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>(false VAUGHAN true) LOVELACE ((4*5) CURIE 35)</pergunta>
+    <resposta>false</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>JOBS ((20/5+9) EINSTEIN 4)) TESLA (4 CURIE 4)</pergunta>
+    <resposta>true</resposta>
+  </model.Perguntas>
+  <model.Perguntas>
+    <pergunta>JOBS (((20/5) EINSTEIN 4) CURIE (false LOVELACE true))</pergunta>
+    <resposta>false</resposta>
+  </model.Perguntas>
+</list>

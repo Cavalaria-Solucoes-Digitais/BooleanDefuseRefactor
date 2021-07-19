@@ -1,0 +1,26 @@
+<list>
+  <model.VocabuloMorse>
+    <palavra>--  .-  ..  ---  .-.</palavra>
+    <traducao>&gt;</traducao>
+  </model.VocabuloMorse>
+  <model.VocabuloMorse>
+    <palavra>--  .   -.  ---  .-.</palavra>
+    <traducao>&lt;</traducao>
+  </model.VocabuloMorse>
+  <model.VocabuloMorse>
+    <palavra>..  --.  ..-  .-  .-../..  --.  ..-  .-  .-..</palavra>
+    <traducao>==</traducao>
+  </model.VocabuloMorse>
+  <model.VocabuloMorse>
+    <palavra> -.-.--/..  --.  ..-  .-  .-..</palavra>
+    <traducao>!=</traducao>
+  </model.VocabuloMorse>
+  <model.VocabuloMorse>
+    <palavra>.</palavra>
+    <traducao>&amp;&amp;</traducao>
+  </model.VocabuloMorse>
+  <model.VocabuloMorse>
+    <palavra>---  ..-</palavra>
+    <traducao>||</traducao>
+  </model.VocabuloMorse>
+</list>

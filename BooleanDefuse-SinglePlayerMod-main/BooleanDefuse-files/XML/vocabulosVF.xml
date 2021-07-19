@@ -1,0 +1,10 @@
+<list>
+  <model.VocabuloMorse>
+    <palavra>..-.</palavra>
+    <traducao>F</traducao>
+  </model.VocabuloMorse>
+  <model.VocabuloMorse>
+    <palavra>...-</palavra>
+    <traducao>V</traducao>
+  </model.VocabuloMorse>
+</list>
